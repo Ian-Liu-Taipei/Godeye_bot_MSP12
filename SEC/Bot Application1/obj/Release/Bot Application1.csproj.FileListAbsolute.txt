@@ -1,0 +1,148 @@
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Bot Application.dll.config
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Bot Application.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Bot Application.pdb
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Autofac.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Chronic.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Microsoft.Rest.ClientRuntime.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Newtonsoft.Json.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\System.Web.Http.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Autofac.xml
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.xml
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.xml
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.xml
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.xml
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\Newtonsoft.Json.xml
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.xml
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.xml
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\System.Web.Http.xml
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.xml
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\ar\Microsoft.Bot.Builder.resources.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\cs\Microsoft.Bot.Builder.resources.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\en\Microsoft.Bot.Builder.resources.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\es\Microsoft.Bot.Builder.resources.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\fa\Microsoft.Bot.Builder.resources.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\fr\Microsoft.Bot.Builder.resources.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\ja\Microsoft.Bot.Builder.resources.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\ru\Microsoft.Bot.Builder.resources.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\obj\Release\Bot Application1.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\obj\Release\Bot Application.dll
+\\mac\home\documents\visual studio 2017\Projects\Bot Application1\Bot Application1\obj\Release\Bot Application.pdb
+\\mac\home\Documents\Visual Studio 2017\Projects\Bot Application1\Bot Application1\bin\Microsoft.ProjectOxford.Vision.dll
+\\mac\home\Documents\Visual Studio 2017\Projects\Bot Application1\Bot Application1\bin\it\Microsoft.Bot.Builder.resources.dll
+\\mac\home\Documents\Visual Studio 2017\Projects\Bot Application1\Bot Application1\bin\nl\Microsoft.Bot.Builder.resources.dll
+\\mac\home\Documents\Visual Studio 2017\Projects\Bot Application1\Bot Application1\bin\Microsoft.Cognitive.LUIS.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Bot Application.dll.config
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Bot Application.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Bot Application.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Autofac.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Chronic.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.Bot.Builder.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.Bot.Connector.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.Cognitive.LUIS.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.ProjectOxford.Common.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.ProjectOxford.Face.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.ProjectOxford.Vision.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.Rest.ClientRuntime.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\System.Net.Http.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\System.Net.Http.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\System.Web.Http.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Autofac.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.Bot.Builder.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.Bot.Connector.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\System.Net.Http.Extensions.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\System.Net.Http.Primitives.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\System.Web.Http.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\ar\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\cs\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\en\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\es\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\fa\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\fr\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\it\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\ja\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\nl\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\ru\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\obj\Release\Bot Application1.csproj.App.config
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\obj\Release\Bot Application1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\obj\Release\Bot Application.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\SEC\Bot Application1\obj\Release\Bot Application.pdb
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Bot Application.dll.config
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Bot Application.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Bot Application.pdb
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Autofac.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Chronic.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.Bot.Builder.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.Bot.Connector.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.Cognitive.LUIS.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.ProjectOxford.Common.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.ProjectOxford.Face.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.ProjectOxford.Vision.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Newtonsoft.Json.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\System.Net.Http.Extensions.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\System.Net.Http.Formatting.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\System.Net.Http.Primitives.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\System.Web.Http.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\System.Web.Http.WebHost.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Autofac.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.Bot.Builder.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.Bot.Connector.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Newtonsoft.Json.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\System.Net.Http.Extensions.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\System.Net.Http.Formatting.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\System.Net.Http.Primitives.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\System.Web.Http.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\System.Web.Http.WebHost.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\obj\Release\Bot Application1.csproj.App.config
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\obj\Release\Bot Application1.csprojResolveAssemblyReference.cache
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\obj\Release\Bot Application.dll
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\obj\Release\Bot Application.pdb
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\MDSK\Desktop\chatbot-_GodsEye_SP-master\SEC\Bot Application1\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
